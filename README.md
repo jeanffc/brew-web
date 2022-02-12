@@ -1,5 +1,7 @@
 # MyBrew | study project based on Brew.com
 
+This is a study project to test Flexbox
+
 ## Usage
 
 Open `index.html` on browser
