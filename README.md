@@ -1,6 +1,6 @@
-# MyBrew | study project based on Brew.com
+# MyBrew
 
-This is a study project to test Flexbox
+This is a study project based on Brew.com
 
 ## Install
 
