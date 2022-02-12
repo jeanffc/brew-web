@@ -1,9 +1,5 @@
 # MyBrew | study project based on Brew.com
 
-## Overview
-
-## Installation
-
 ## Usage
 
 Open `index.html` on browser
