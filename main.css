@@ -205,9 +205,6 @@ footer a {
   .card-item {
     width: 240px;
   }
-
-  .graph-item {
-  }
 }
 
 @media (max-width: 900px) {
