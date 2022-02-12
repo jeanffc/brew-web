@@ -2,9 +2,25 @@
 
 This is a study project to test Flexbox
 
+## Install
+
+1. Clone the project
+
+```bash
+git clone https://github.com/jeanffc/brew-web.git
+```
+
+2. Open the folder
+
+```bash
+cd brew-site
+```
+
+3. Open the project folder on the text editor of your choice (eg Vim, Atom, Sublime, Visual Studio Code)
+
 ## Usage
 
-Open `index.html` on browser
+1. Open `index.html` on the browser of you choice (eg Chrome)
 
 ## Contact me
 
