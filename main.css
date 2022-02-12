@@ -1,5 +1,18 @@
 /* MintGroteskTrial font */
-@import url(https://fonts.googleapis.com/css?family=MintGroteskTrial);
+
+@font-face {
+  font-family: "MintGroteskTrial";
+  src: url("assets/Mint-Grotesk-Trial/MintGroteskMediumTrial.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MintGroteskTrial";
+  src: url("assets/Mint-Grotesk-Trial/MintGroteskBoldTrial.otf");
+  font-weight: bold;
+  font-style: normal;
+}
 
 /*  Reset CSS */
 body,
@@ -16,7 +29,7 @@ spam {
 }
 
 body {
-  font-family: "MintGroteskTrial Bold", Helvetica, serif;
+  font-family: "MintGroteskTrial", Helvetica, serif;
   color: #000;
   padding: 90px 48px 32px 48px;
 }
