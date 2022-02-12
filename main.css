@@ -224,3 +224,11 @@ footer a {
 
 @media (max-width: 600px) {
 }
+
+.validators {
+  display: flex;
+  flex-direction: row;
+
+  margin-top: 40px;
+  column-gap: 8px;
+}
