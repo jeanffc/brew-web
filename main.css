@@ -2,14 +2,14 @@
 
 @font-face {
   font-family: "MintGroteskTrial";
-  src: url("assets/Mint-Grotesk-Trial/MintGroteskMediumTrial.otf");
+  src: url("assets/fonts/Mint-Grotesk-Trial/MintGroteskMediumTrial.otf");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "MintGroteskTrial";
-  src: url("assets/Mint-Grotesk-Trial/MintGroteskBoldTrial.otf");
+  src: url("assets/fonts/Mint-Grotesk-Trial/MintGroteskBoldTrial.otf");
   font-weight: bold;
   font-style: normal;
 }
