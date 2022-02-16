@@ -4,6 +4,14 @@ This is a study project based on Brew.com
 
 ![Brew Banner](https://github.com/jeanffc/brew-web/blob/main/assets/img/brew-banner.jpg)
 
+## Technologies
+
+This project uses:
+
+- HTML
+- CSS
+- JavaScript
+
 ## 🚀 Install
 
 1. Clone the project
