@@ -4,7 +4,7 @@ This is a study project based on Brew.com
 
 ![Brew Banner](https://github.com/jeanffc/brew-web/blob/main/assets/img/brew-banner.jpg)
 
-## Install
+## 🚀 Install
 
 1. Clone the project
 
@@ -26,10 +26,10 @@ cd brew-site
 code .
 ```
 
-## Usage
+## 💻 Usage
 
 1. Open `index.html` on the browser of you choice (eg Chrome)
 
-## Contact me
+## 📱 Contact me
 
 <a href="https://www.linkedin.com/in/jeancampos/"> LinkedIn</a>
