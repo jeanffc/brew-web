@@ -1,10 +1,10 @@
-# MyBrew
+# 🎓 MyBrew
 
 This is a study project based on Brew.com
 
 ![Brew Banner](https://github.com/jeanffc/brew-web/blob/main/assets/img/brew-banner.jpg)
 
-## Technologies
+## 📌 Technologies
 
 This project uses:
 
